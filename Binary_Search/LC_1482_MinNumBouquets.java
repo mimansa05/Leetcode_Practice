@@ -1,4 +1,4 @@
-class Solution {
+class LC_1482_MinNumBouquets {
     public int minDays(int[] bloomDay, int m, int k) {
         if ((long)(m*k)>bloomDay.length) return -1;
         int minDay=Integer.MAX_VALUE;

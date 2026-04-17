@@ -1,4 +1,4 @@
-class Solution {
+class LC_50_PowUsingRecursion {
     public double myPow(double x, int n) {
         //Using Recursion
         long num=n;

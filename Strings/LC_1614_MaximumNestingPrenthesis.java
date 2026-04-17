@@ -1,4 +1,4 @@
-class Solution {
+class LC_1614_MaximumNestingPrenthesis {
     public int maxDepth(String s) {
         int max=-9999;
         int count=0;

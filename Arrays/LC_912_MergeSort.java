@@ -1,4 +1,4 @@
-class Solution {
+class LC_912_MergeSort {
     public int[] sortArray(int[] nums) {
         mergeSort(0,nums.length-1,nums);
         return nums;

@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+class LC_819 {
     public String mostCommonWord(String paragraph, String[] banned) {
         Set<String> ban = new HashSet<>(Arrays.asList(banned));
         Map<String, Integer> map = new HashMap<>();

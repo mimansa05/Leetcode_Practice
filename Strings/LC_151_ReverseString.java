@@ -1,4 +1,4 @@
-class Solution {
+class LC_151_ReverseString {
     public String reverseWords(String s) {
         String w = "";
         s = s.trim();

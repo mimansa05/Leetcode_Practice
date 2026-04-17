@@ -1,4 +1,4 @@
-class Solution {
+class LC_1922_CountGoodNum {
     public int countGoodNumbers(long n) {
     int mod=1000000007;
     long even;

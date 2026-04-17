@@ -1,4 +1,4 @@
-class Solution {
+class LC_29_Divide2Integers {
     public int divide(int dividend, int divisor) {
         //Optimal solution
         if(dividend==Integer.MIN_VALUE && divisor==-1) return Integer.MAX_VALUE;

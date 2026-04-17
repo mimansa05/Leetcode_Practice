@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+class LC_78_Subsets {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>(); 
         int n=nums.length;

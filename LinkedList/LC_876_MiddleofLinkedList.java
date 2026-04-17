@@ -1,4 +1,12 @@
-class Solution {
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode() {}
+    ListNode(int val) { this.val = val; }
+    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+}
+
+class LC_876_MiddleofLinkedList {
     public ListNode middleNode(ListNode head) {
         //Optimal approach
         ListNode slow=head;

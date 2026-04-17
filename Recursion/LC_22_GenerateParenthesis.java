@@ -1,4 +1,7 @@
-class Solution {
+import java.util.ArrayList;
+import java.util.List;
+
+class LC_22_GenerateParenthesis {
     public List<String> generateParenthesis(int n) {
          List<String> result = new ArrayList<>();
         // Start the recursive generation with initial values
@@ -28,7 +31,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        LC_22_GenerateParenthesis sol = new LC_22_GenerateParenthesis();
         int n = 3; // Example input
         List<String> result = sol.generateParenthesis(n);
 

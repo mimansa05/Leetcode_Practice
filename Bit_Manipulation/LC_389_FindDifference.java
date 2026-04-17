@@ -1,4 +1,4 @@
-class Solution {
+class LC_389_FindDifference {
     public char findTheDifference(String s, String t) {
         int result = 0;
         for (char c : s.toCharArray()) {

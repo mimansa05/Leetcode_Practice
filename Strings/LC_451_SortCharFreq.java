@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+class LC_451_SortCharFreq {
     public String frequencySort(String s) {
         HashMap<Character,Integer> hash=new HashMap<>();
         for(char x:s.toCharArray())

@@ -1,4 +1,4 @@
-class Solution {
+class LC_1009_ComplementOfInteger {
     public int bitwiseComplement(int n) {
         if (n == 0) return 1;
 

@@ -1,4 +1,4 @@
-class Solution {
+class LC_190_ReverseBits {
     public int reverseBits(int n) {
         //picking from right and adding to left
         int result=0;

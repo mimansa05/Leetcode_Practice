@@ -1,4 +1,6 @@
-class Solution {
+import java.util.HashMap;
+
+class LC_242_ValidAnagram {
     public boolean isAnagram(String s, String t) {
         if(s.length()!=t.length()) return false;
         HashMap<Character,Integer> mapS=new HashMap<>();

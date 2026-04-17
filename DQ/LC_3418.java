@@ -1,4 +1,6 @@
-class Solution {
+import java.util.Arrays;
+
+class LC_3418 {
 
     public int maximumAmount(int[][] coins) {
         int m = coins.length;

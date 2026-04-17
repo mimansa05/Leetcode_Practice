@@ -1,4 +1,4 @@
-class Solution {
+class LC_2839 {
     public boolean canBeEqual(String s1, String s2) {
         if (s1.length() != 4 || s2.length() != 4) return false;
         if(s1.equals(s2)) return true;

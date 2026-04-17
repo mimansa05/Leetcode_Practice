@@ -1,4 +1,4 @@
-class LC_204_CountPrimes {
+public class Solution {
     public int countPrimes(int n) {
         //Optimized
         boolean[] prime = new boolean[n + 1];

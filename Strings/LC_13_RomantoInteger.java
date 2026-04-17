@@ -1,4 +1,4 @@
-class Solution {
+class LC_13_RomantoInteger {
     public int romanToInt(String s) {
         //String val[]=["","I","V","X","L","C","D","M"];
         int v=0;

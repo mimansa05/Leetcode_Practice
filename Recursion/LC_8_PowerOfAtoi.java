@@ -1,4 +1,4 @@
-class Solution {
+class LC_8_PowerOfAtoi {
     public int myAtoi(String s) {
         int i=0;
         int n=s.length();

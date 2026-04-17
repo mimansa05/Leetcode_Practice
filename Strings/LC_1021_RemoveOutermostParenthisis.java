@@ -1,4 +1,4 @@
-class Solution {
+class LC_1021_RemoveOutermostParenthisis {
     public String removeOuterParentheses(String s) {
         String res="";
         String temp="";

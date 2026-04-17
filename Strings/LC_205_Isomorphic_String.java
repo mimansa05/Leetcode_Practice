@@ -1,4 +1,6 @@
-class Solution {
+import java.util.HashMap;
+
+class LC_205_Isomorphic_String {
     public boolean isIsomorphic(String s, String t) {
         HashMap<Character,Character> hash=new HashMap<>();
         if(s.length()==t.length())
