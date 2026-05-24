@@ -1,4 +1,4 @@
-class Solution {
+class LC_1952_ThreeDivisore {
     public boolean isThree(int n) {
         int a = 2;
 
