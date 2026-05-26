@@ -1,4 +1,6 @@
-class LC_122_Buys&SellStockII {
+import java.util.Arrays;
+class LC_122_BuysSellStockII
+{
     public int maxProfit(int[] prices) {
         int n=prices.length;
         int dp[][]=new int[n][2];
