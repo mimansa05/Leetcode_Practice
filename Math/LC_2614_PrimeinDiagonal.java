@@ -1,4 +1,4 @@
-class Solution {
+class LC_2614_PrimeinDiagonal {
     public int diagonalPrime(int[][] nums) {
 
         int len = nums.length;
