@@ -1,4 +1,4 @@
-class LC_2958 {
+class LC_2958   {
     public int maxSubarrayLength(int[] nums, int k) {
         // Intuition: only nums[right] itself can break the window, shrink from left until it fits again
         int n = nums.length;
