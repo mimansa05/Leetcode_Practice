@@ -4,7 +4,7 @@ class LC_3871 {
     public long countCommas(long n) {
         int k = 0;        
         for (long p : pow1000) if (n >= p) k++;
-        
+
         return k * (n + 1) - (pow1000[k] - 1000) / 999;
     }
 }
