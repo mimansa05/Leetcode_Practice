@@ -131,6 +131,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -148,12 +149,26 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
