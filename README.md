@@ -141,6 +141,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/mimansa05/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,4 +182,5 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0190-reverse-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
