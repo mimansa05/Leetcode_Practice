@@ -182,5 +182,6 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0190-reverse-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/mimansa05/Leetcode_Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
