@@ -171,4 +171,12 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
