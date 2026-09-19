@@ -131,6 +131,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Bidirectional Search
 |  |
@@ -150,6 +151,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -163,6 +165,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -184,4 +187,12 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0191-number-of-1-bits](https://github.com/mimansa05/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/mimansa05/Leetcode_Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
