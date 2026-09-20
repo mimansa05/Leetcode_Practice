@@ -126,6 +126,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
+| [3498-reverse-degree-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,4 +196,8 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
