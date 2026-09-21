@@ -1,5 +1,5 @@
 import java.util.*;
-class WordLadderBFS {
+class LC_127_WordLadder {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         int n=wordList.size();
         Set<String> set=new HashSet<>(wordList);
