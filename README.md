@@ -153,6 +153,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mimansa05/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,4 +230,8 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mimansa05/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
