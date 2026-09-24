@@ -137,6 +137,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0238-product-of-array-except-self](https://github.com/mimansa05/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -174,6 +176,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
