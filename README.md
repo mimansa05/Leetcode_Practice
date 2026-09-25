@@ -138,6 +138,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mimansa05/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
@@ -168,17 +170,20 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -227,6 +232,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -240,4 +246,12 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
