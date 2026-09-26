@@ -154,6 +154,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0238-product-of-array-except-self](https://github.com/mimansa05/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
+| [0704-binary-search](https://github.com/mimansa05/Leetcode_Practice/tree/master/0704-binary-search) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
@@ -235,6 +236,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/mimansa05/Leetcode_Practice/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
