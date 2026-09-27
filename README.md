@@ -128,6 +128,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
@@ -259,4 +260,12 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
