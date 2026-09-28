@@ -128,6 +128,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
+| [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -296,4 +297,8 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
