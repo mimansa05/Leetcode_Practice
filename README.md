@@ -140,6 +140,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
@@ -175,6 +176,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -195,6 +197,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -233,6 +236,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
@@ -255,6 +259,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
@@ -268,4 +273,8 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
