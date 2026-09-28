@@ -239,6 +239,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
+| [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Search
@@ -254,6 +255,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mimansa05/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
@@ -286,4 +288,12 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mimansa05/Leetcode_Practice/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
