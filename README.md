@@ -223,6 +223,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0201-bitwise-and-of-numbers-range](https://github.com/mimansa05/Leetcode_Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/mimansa05/Leetcode_Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/mimansa05/Leetcode_Practice/tree/master/0342-power-of-four) |
 ## Topological Sort
 |  |
 | ------- |
@@ -258,6 +259,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mimansa05/Leetcode_Practice/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mimansa05/Leetcode_Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mimansa05/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
@@ -295,6 +297,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mimansa05/Leetcode_Practice/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mimansa05/Leetcode_Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
