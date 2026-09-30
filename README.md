@@ -153,6 +153,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/mimansa05/Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
@@ -306,6 +307,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/mimansa05/Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0090-subsets-ii) |
 ## Recursion
