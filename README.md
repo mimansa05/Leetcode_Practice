@@ -141,6 +141,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/mimansa05/Leetcode_Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mimansa05/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -178,6 +179,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/mimansa05/Leetcode_Practice/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/mimansa05/Leetcode_Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
@@ -199,6 +201,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0207-course-schedule](https://github.com/mimansa05/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/mimansa05/Leetcode_Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -273,11 +276,13 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mimansa05/Leetcode_Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mimansa05/Leetcode_Practice/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Stack
@@ -293,6 +298,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mimansa05/Leetcode_Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
