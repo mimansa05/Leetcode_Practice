@@ -201,6 +201,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0210-course-schedule-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mimansa05/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -245,6 +246,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
@@ -276,6 +278,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/mimansa05/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Stack
 |  |
@@ -291,6 +294,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -310,4 +314,12 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mimansa05/Leetcode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
