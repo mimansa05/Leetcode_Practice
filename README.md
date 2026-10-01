@@ -127,6 +127,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -291,11 +292,13 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Shortest Path
