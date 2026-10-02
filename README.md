@@ -128,6 +128,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -252,6 +253,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
@@ -303,6 +305,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Shortest Path
@@ -314,6 +317,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mimansa05/Leetcode_Practice/tree/master/0046-permutations) |
