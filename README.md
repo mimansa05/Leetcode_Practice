@@ -159,6 +159,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0039-combination-sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mimansa05/Leetcode_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mimansa05/Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
@@ -282,6 +283,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mimansa05/Leetcode_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
 |  |
@@ -321,6 +323,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0039-combination-sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mimansa05/Leetcode_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mimansa05/Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0090-subsets-ii) |
 ## Recursion
