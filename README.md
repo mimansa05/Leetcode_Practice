@@ -121,12 +121,14 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mimansa05/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
@@ -319,6 +321,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mimansa05/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0040-combination-sum-ii) |
