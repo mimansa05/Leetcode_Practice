@@ -131,6 +131,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/mimansa05/Leetcode_Practice/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/mimansa05/Leetcode_Practice/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
