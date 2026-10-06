@@ -168,6 +168,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0047-permutations-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mimansa05/Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/mimansa05/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mimansa05/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
@@ -262,6 +263,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | ------- |
 | [0022-generate-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/mimansa05/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
