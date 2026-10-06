@@ -137,6 +137,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0344-reverse-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mimansa05/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -314,6 +315,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0032-longest-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mimansa05/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -324,6 +326,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0032-longest-valid-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mimansa05/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mimansa05/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Shortest Path
@@ -371,4 +374,5 @@ This repository is mainly for personal learning and practice, but suggestions an
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mimansa05/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
