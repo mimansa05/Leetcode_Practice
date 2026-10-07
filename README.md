@@ -245,6 +245,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0231-power-of-two](https://github.com/mimansa05/Leetcode_Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/mimansa05/Leetcode_Practice/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/mimansa05/Leetcode_Practice/tree/master/0397-integer-replacement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mimansa05/Leetcode_Practice/tree/master/0779-k-th-symbol-in-grammar) |
 ## Topological Sort
 |  |
@@ -267,6 +268,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 | [0118-pascals-triangle](https://github.com/mimansa05/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mimansa05/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mimansa05/Leetcode_Practice/tree/master/0213-house-robber-ii) |
+| [0397-integer-replacement](https://github.com/mimansa05/Leetcode_Practice/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mimansa05/Leetcode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -356,6 +358,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/mimansa05/Leetcode_Practice/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/mimansa05/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -373,6 +376,7 @@ This repository is mainly for personal learning and practice, but suggestions an
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/mimansa05/Leetcode_Practice/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/mimansa05/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mimansa05/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
