@@ -5,16 +5,21 @@ class Solution {
         int count=0;
         for(char x:s.toCharArray())
         {
-            sb.append(x);
             if(x=='(')
             {
-                count++;
+                if(count>0)
+                {
+                    res.append(x);
+               }
+               count++;
             }
-            else count--;
-            if(count==0)
+            else
             {
-                res.append(sb.substring(1,sb.length()-1));
-                sb.setLength(0);
+                count--;
+                if(count>0)
+                {
+                    res.append(x);
+                }
             }
         }
         return res.toString();
