@@ -16,7 +16,7 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         //Iterative preorder using stack
-        //first push roght in stack then left becuase it is lifo
+        //first push right in stack then left becuase it is lifo
         List<Integer> res=new ArrayList<>();
         Stack<TreeNode> st=new Stack<>();
         if(root==null) return res;
